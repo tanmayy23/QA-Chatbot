@@ -36,7 +36,4 @@ for filename in os.listdir(input_folder):
         else:
             print("Warning: Empty content extracted")
 
-
-
-#Trying something new
 print("\nAll done!")
